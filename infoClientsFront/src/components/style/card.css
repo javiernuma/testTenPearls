@@ -1,0 +1,13 @@
+img{
+    height: auto;
+    width: 50px;
+}
+.margin{
+    margin: 10px;
+}
+.withoutLabel{
+    marginTop: 10px;
+}
+.textField{
+    width: 25ch;
+}
